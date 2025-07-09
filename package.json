@@ -18,11 +18,11 @@
   "author": "Rana",
   "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "nodemailer": "^6.9.13",
-    "sslcommerz-lts": "^1.2.5"
-  },
+  "cors": "^2.8.5",
+  "express": "^4.18.2",
+  "nodemailer": "^6.9.13",
+  "sslcommerz-lts": "^1.2.3"
+},
   "devDependencies": {
     "nodemon": "^3.0.3"
   }
